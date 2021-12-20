@@ -1,4 +1,4 @@
-## My Deep Learning Projcts
+## My Deep Learning Projects
 
 Links to Jupiter Notbooks viewer:
 
