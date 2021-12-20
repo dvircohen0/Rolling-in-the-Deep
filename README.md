@@ -1,4 +1,4 @@
-## My AI Projcts
+## My Deep Learning Projcts
 
 Links to Jupiter Notbooks viewer:
 
